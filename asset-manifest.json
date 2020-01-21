@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weed-datasets/static/css/main.7e81c441.chunk.css",
+    "main.js": "/weed-datasets/static/js/main.226f9f9f.chunk.js",
+    "main.js.map": "/weed-datasets/static/js/main.226f9f9f.chunk.js.map",
+    "runtime-main.js": "/weed-datasets/static/js/runtime-main.0d7c3f3f.js",
+    "runtime-main.js.map": "/weed-datasets/static/js/runtime-main.0d7c3f3f.js.map",
+    "static/js/2.0d950845.chunk.js": "/weed-datasets/static/js/2.0d950845.chunk.js",
+    "static/js/2.0d950845.chunk.js.map": "/weed-datasets/static/js/2.0d950845.chunk.js.map",
+    "index.html": "/weed-datasets/index.html",
+    "precache-manifest.dcec9279db998bb80dcc7e69cfcad1e2.js": "/weed-datasets/precache-manifest.dcec9279db998bb80dcc7e69cfcad1e2.js",
+    "service-worker.js": "/weed-datasets/service-worker.js",
+    "static/css/main.7e81c441.chunk.css.map": "/weed-datasets/static/css/main.7e81c441.chunk.css.map",
+    "static/js/2.0d950845.chunk.js.LICENSE": "/weed-datasets/static/js/2.0d950845.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d7c3f3f.js",
+    "static/js/2.0d950845.chunk.js",
+    "static/css/main.7e81c441.chunk.css",
+    "static/js/main.226f9f9f.chunk.js"
+  ]
+}
