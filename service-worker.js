@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/weed-datasets/precache-manifest.5b47571fae3bfc885714e7eee3e428c0.js"
+  "/weed-datasets/precache-manifest.bb7b77c1b7479390f9b2a9026007994a.js"
 );
 
 self.addEventListener('message', (event) => {

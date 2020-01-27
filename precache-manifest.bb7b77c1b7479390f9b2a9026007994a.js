@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3361e7a98263ef5f81392a720a59498",
+    "revision": "f4d691d23534893699090b98e2b99ae2",
     "url": "/weed-datasets/index.html"
   },
   {
-    "revision": "85863a5dbc633204199e",
-    "url": "/weed-datasets/static/css/main.7e81c441.chunk.css"
+    "revision": "02174412f856013540ac",
+    "url": "/weed-datasets/static/css/main.dabeeeff.chunk.css"
   },
   {
     "revision": "d7aaeaf602fda77efda3",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weed-datasets/static/js/2.0d950845.chunk.js.LICENSE"
   },
   {
-    "revision": "85863a5dbc633204199e",
-    "url": "/weed-datasets/static/js/main.f1f83824.chunk.js"
+    "revision": "02174412f856013540ac",
+    "url": "/weed-datasets/static/js/main.b29785d7.chunk.js"
   },
   {
     "revision": "00999ded9f1018c2e6ee",

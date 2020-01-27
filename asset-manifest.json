@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/weed-datasets/static/css/main.7e81c441.chunk.css",
-    "main.js": "/weed-datasets/static/js/main.f1f83824.chunk.js",
-    "main.js.map": "/weed-datasets/static/js/main.f1f83824.chunk.js.map",
+    "main.css": "/weed-datasets/static/css/main.dabeeeff.chunk.css",
+    "main.js": "/weed-datasets/static/js/main.b29785d7.chunk.js",
+    "main.js.map": "/weed-datasets/static/js/main.b29785d7.chunk.js.map",
     "runtime-main.js": "/weed-datasets/static/js/runtime-main.0d7c3f3f.js",
     "runtime-main.js.map": "/weed-datasets/static/js/runtime-main.0d7c3f3f.js.map",
     "static/js/2.0d950845.chunk.js": "/weed-datasets/static/js/2.0d950845.chunk.js",
     "static/js/2.0d950845.chunk.js.map": "/weed-datasets/static/js/2.0d950845.chunk.js.map",
     "index.html": "/weed-datasets/index.html",
-    "precache-manifest.5b47571fae3bfc885714e7eee3e428c0.js": "/weed-datasets/precache-manifest.5b47571fae3bfc885714e7eee3e428c0.js",
+    "precache-manifest.bb7b77c1b7479390f9b2a9026007994a.js": "/weed-datasets/precache-manifest.bb7b77c1b7479390f9b2a9026007994a.js",
     "service-worker.js": "/weed-datasets/service-worker.js",
-    "static/css/main.7e81c441.chunk.css.map": "/weed-datasets/static/css/main.7e81c441.chunk.css.map",
+    "static/css/main.dabeeeff.chunk.css.map": "/weed-datasets/static/css/main.dabeeeff.chunk.css.map",
     "static/js/2.0d950845.chunk.js.LICENSE": "/weed-datasets/static/js/2.0d950845.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.0d7c3f3f.js",
     "static/js/2.0d950845.chunk.js",
-    "static/css/main.7e81c441.chunk.css",
-    "static/js/main.f1f83824.chunk.js"
+    "static/css/main.dabeeeff.chunk.css",
+    "static/js/main.b29785d7.chunk.js"
   ]
 }
