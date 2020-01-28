@@ -34,7 +34,8 @@ export default function Home() {
                   This website summarize a list of weed detection datasets.
                 </div>
               </h1>
-              <p className="lead mb-5 text-white-50">
+              <br/>
+              <p className="lead mb-5 text-white-50" id="website-description">
                 It takes a lot of effort to find an appropriate dataset for a data science/machine learning project. 
                 To make it easier for data scientists whose interest lies in automatic weed detection, this website was created as 
                 a collection of weed datasets, each with its own clear description and source details. 

@@ -16,14 +16,14 @@ export default class Contact extends React.Component {
                 </h1>
                 <p className="lead mb-5 text-white-50">
                   Author: Van Manh Nguyen
-                  <br/>
-                  Email: mike.manhnguyen103@gmail.com 
+                  <br />
+                  Email: mike.manhnguyen103@gmail.com
                 </p>
-                <br/>
+                <br />
                 <p className="lead mb-5 text-white-50" id="contact-message">
                   This website serves as a hub for everyone who is interested in automatic weed detection (or data science
                   and machine learning in general). There are plenty of valuable datasets out there that I may have missed.
-                  If you know of any of those, or have any feedbacks, please do not hesitate to contact me, so that we can 
+                  If you know of any of those, or have any feedbacks, please do not hesitate to contact me, so that we can
                   make this website better for every one who needs it. Thank you.
                 </p>
               </div>

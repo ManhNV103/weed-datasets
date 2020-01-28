@@ -16,11 +16,9 @@ export default class Description extends React.Component {
                   <br />
                   {element.name}
                 </h1>
-                <p className="lead mb-5 text-white-50">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non
-                  possimus ab labore provident mollitia. Id assumenda voluptate
-                  earum corporis facere quibusdam quisquam iste ipsa cumque unde
-                  nisi, totam quas ipsam.
+                <br />
+                <p className="lead mb-5 text-white-50" id="dataset-description">
+                  {element.description}
                 </p>
                 <p className="lead mb-5 text-white-50">
                   Source:{" "}

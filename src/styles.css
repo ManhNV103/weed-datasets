@@ -19,7 +19,7 @@ p a {
 }
 
 .info_box {
-  width: 80%;
+  width: 100%;
   text-align: justify;
   height: auto;
   margin: 0 auto;
@@ -41,4 +41,12 @@ p a {
 
 #home {
   color: white;
+}
+
+#dataset-description {
+  text-align: justify;
+}
+
+#website-description {
+  text-align: justify;
 }

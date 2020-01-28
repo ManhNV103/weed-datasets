@@ -18,7 +18,7 @@ export default class Nav extends React.Component {
               <span className="icon-bar" />
             </button>
             <div className="navbar-brand" id="name">
-                Weed Dataset Collection
+              Weed Dataset Collection
             </div>
           </div>
           <div className="collapse navbar-collapse" id="myNavbar">
