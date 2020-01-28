@@ -1,12 +1,23 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import React from "react";
+import ReactDOM from "react-dom";
+import Home from "./Home.js";
+import Description from "./Description.js";
+import Contact from "./Contact.js";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
-ReactDOM.render(<App />, document.getElementById('root'));
+import "./styles.css";
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+function App() {
+  return (
+    <div className="App">
+      <Router basename="/weed-datasets">
+        <Route path="/" exact component={Home} />
+        <Route path="/des/:value" component={Description} />
+        <Route path="/contact" component={Contact} />
+      </Router>
+    </div>
+  );
+}
+
+const rootElement = document.getElementById("root");
+ReactDOM.render(<App />, rootElement);
