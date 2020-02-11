@@ -37,6 +37,7 @@ export default class Description extends React.Component {
               <h2>Basic Information</h2>
               <hr />
               <div className="info_box">
+                <p>Author: {element.author}</p>
                 <p>Data type: {element.data_type}</p>
                 <p>Number of images: {element.num_of_images}</p>
                 <p>Number of plants: {element.num_of_plants}</p>
@@ -51,6 +52,9 @@ export default class Description extends React.Component {
               <h2>Citation</h2>
               <hr />
               <div className="info_box" id="cite">
+                All citations are as of January, 2020:
+                <br/>
+                <br/>
                 {element.citation.map(research => (
                   <p key={research}>- {research}</p>
                 ))}

@@ -31,14 +31,14 @@ export default function Home() {
               <h1 className="display-4 text-white mt-5 mb-2">
                 <br />
                 <div>
-                  This website summarize a list of weed detection datasets.
+                  This website summarize a list of in-field weeds detection datasets.
                 </div>
               </h1>
               <br/>
               <p className="lead mb-5 text-white-50" id="website-description">
                 It takes a lot of effort to find an appropriate dataset for a data science/machine learning project. 
-                To make it easier for data scientists whose interest lies in automatic weed detection, this website was created as 
-                a collection of weed datasets, each with its own clear description and source details. 
+                To make it easier for data scientists whose interest lies in automatic weeds detection, this website was created as 
+                a collection of weeds datasets, each with its own clear description and source details. 
               </p>
             </div>
           </div>
